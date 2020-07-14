@@ -6,15 +6,15 @@ I'm on a road to Full-Stack developer from my current Front-End position. Based 
 
 <div align="center">
     <a href="https://github.com/Babadzhanov?tab=repositories" target="_blank">
-        <img width="96" height="96"  src="https://github.com/Babadzhanov/Babadzhanov/blob/master/assets/icon-repos.svg">
+        <img width="96" height="96"  src="https://github.com/Babadzhanov/Babadzhanov/blob/master/assets/icon-repos.svg" align="left">
     </a>
     <a href="https://www.linkedin.com/in/simeon-babadzhanov/" target="_blank">
-        <img width="96" height="96" src="https://github.com/Babadzhanov/Babadzhanov/blob/master/assets/icon-linkedin.svg">
+        <img width="96" height="96" src="https://github.com/Babadzhanov/Babadzhanov/blob/master/assets/icon-linkedin.svg" align="left">
     </a>
     <a href="https://twitter.com/s_babadzhanov" target="_blank">
-        <img width="96" height="96"  src="https://github.com/Babadzhanov/Babadzhanov/blob/master/assets/icon-twitter.svg">
+        <img width="96" height="96"  src="https://github.com/Babadzhanov/Babadzhanov/blob/master/assets/icon-twitter.svg" align="left">
     </a>
     <a href="mailto:simeoncoding@gmail.com" target="_blank">
-        <img width="96" height="96"  src="https://github.com/Babadzhanov/Babadzhanov/blob/master/assets/icon-email.svg">
+        <img width="96" height="96"  src="https://github.com/Babadzhanov/Babadzhanov/blob/master/assets/icon-email.svg" align="left">
     </a>
 </div>
