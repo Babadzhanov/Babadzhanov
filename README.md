@@ -2,7 +2,7 @@
 
 ## My name is Simeon Babadzhanov
 
-I'm on a road to Full-Stack developer from my current Front-End position. Based in London, I'm a self-taught developer whose passion is technology and hacking. I like ReactJS, TypeScript, HTML, Sass, Redux, NodeJS, Gatsby, Netlify, Firebase and I'm not afraid to use them.
+Based in London, I'm a self-taught developer whose passion is technology and hacking. I like ReactJS, TypeScript, HTML, Sass, Redux, NodeJS, Gatsby, Netlify, Firebase and I'm not afraid to use them.
 
 <div align="center">
     <a href="https://github.com/Babadzhanov?tab=repositories" target="_blank">
