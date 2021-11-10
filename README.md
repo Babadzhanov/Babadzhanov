@@ -14,7 +14,7 @@ Based in London, I'm a self-taught developer whose passion is technology and hac
     <a href="https://twitter.com/thisBabadzhanov" target="_blank">
         <img width="96" height="96"  src="https://github.com/Babadzhanov/Babadzhanov/blob/master/assets/icon-twitter.svg" align="left">
     </a>
-    <a href="mailto:simeoncoding@gmail.com" target="_blank">
+    <a href="mailto:babadzhanov.simeon@gmail.com" target="_blank">
         <img width="96" height="96"  src="https://github.com/Babadzhanov/Babadzhanov/blob/master/assets/icon-email.svg" align="left">
     </a>
 </div>
